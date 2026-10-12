@@ -26,7 +26,7 @@ I've been noticing more companies adopting Rust, and I want to understand why. R
 
 I'm not here to pretend I know Rust already. I'm here to learn it properly, one compiler error at a time.
 
-**The goal to feel and be an expert, to become one.**
+**The goal is to feel and be an expert, to become one.**
 
 If you're also learning Rust, feel free to follow along. Let's figure this language out together.
 
